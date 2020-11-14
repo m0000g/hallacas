@@ -3,14 +3,13 @@ Recetas de hallacas de tu familia y la mía! compartir es difundir nuestra cultu
 
 # Instrucciones
 
-1. Clona el repositorio.
-2. Edita el archivo hallaca.md (es markdown, sorry, not sorry). 
+1. Haz fork del repositorio.
+2. Edita el archivo hallaca.md y crea tu propio archivo familiar (es markdown, sorry, not sorry). 
 4. Crea un pull request al repo principal para que tu receta esté visible.
 
 
 # TEMPLATE
 Puedes nombrar el archivo hallaca.md siguiendo este estándar
-
 `hallaca_region_nombrefamilia.md'`
 
 La receta debe incluir lo siguiente (si es posible):
