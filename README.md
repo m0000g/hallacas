@@ -10,7 +10,9 @@ Recetas de hallacas de tu familia y la mía! compartir es difundir nuestra cultu
 
 # TEMPLATE
 Puedes nombrar el archivo hallaca.md siguiendo este estándar
-'hallaca_region_nombrefamilia.md
+
+`hallaca_region_nombrefamilia.md'`
+
 La receta debe incluir lo siguiente (si es posible):
 * Región de Venezuela (o del mundo, tal vez es una nueva tradición).
 * Apellido de la familia, nombre familiar, o tu nombre.
