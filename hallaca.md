@@ -8,4 +8,3 @@ Rinde para x hallacas
 
 # INSTRUCCIONES
 <!---Procedimiento, bailan mientras las hacen? pueden agregar tips divertidos o tradiciones de la familia-->
-
