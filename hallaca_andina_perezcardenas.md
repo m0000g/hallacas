@@ -63,6 +63,8 @@ _El día de las hallacas_
   * La leña (1 hora): La tradición es cocinarlas a la leña como una hora antes de terminar con todas las hallacas. La persona debe tener paciencia y tal vez esperar hasta tarde para poder apagar el fuego y retirarlas.
   * Cocinar en hornilla normal (1 hora).
 
+_Nota_: La mamá de mi papá usaba masa "colada", al guiso empella y tocino.
+
 # TIPS ADICIONALES
 * Nersa: Si cuenta las lajas de pimentón, puede saber cuántas hallacas salieron.
 * Nersa: No le coloque cominos cambia mucho el sabor y producen muchas acidez (realmente es que a ella no le gusta el comino).
@@ -70,3 +72,4 @@ _El día de las hallacas_
 * Manis: El sofrito, hágalo con cariño, es decir no sea pichirre. Yo uso casi una libra de puerro un paquete de cilantro y uno de perejil, solo un pimentón.
 * Manis: La sal es importante!, cuando aliñe que le quede un poco salado porque la mayoría de la sal se va al agua. Para que tengas idea de cuanta sal debe tener, recuerda que debe ser salado como el agua de mar. 
 * Jully: Cuando cocinamos a leña dura aproximadamente 3 o 4 horas  por el cochino. Y la masa para que quede más rica se coloca el agua de los huesos de las pechugas de pollo.
+
