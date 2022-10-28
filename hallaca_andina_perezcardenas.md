@@ -1,7 +1,7 @@
 
 <!-- Foto, dibujo del resultado final? -->
 
-![Hallaca de Gaby](/assets/img/hallaca_andina_perezcardenas.jpg) 
+![Hallaca de Nersa](/assets/img/hallaca_andina_perezcardenas.jpg) 
 
 Región:
 Hallaca Andina.
