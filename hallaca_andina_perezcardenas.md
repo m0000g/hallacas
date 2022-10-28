@@ -1,11 +1,17 @@
 
-Hallaca Andina
-
-Familia: Pérez Cárdenas.
-
-Rinde para 60 hallacas.
-
 <!-- Foto, dibujo del resultado final? -->
+
+![Hallaca de Gaby](/assets/img/hallaca_andina_perezcardenas.jpg) 
+
+Región:
+Hallaca Andina.
+
+Familia: 
+Pérez Cárdenas.
+
+Rinde para:
+60 hallacas.
+
 
 # INGREDIENTES
 
@@ -34,6 +40,7 @@ Rinde para 60 hallacas.
 **Utensilios**: Olla grande, cuchillos, delantales, Tijeras, tablas para picar.
 
 **Extra**: botella de vino rosado y música navideña.
+Playlist: https://open.spotify.com/playlist/78KWFFumzRNhNcj2JBY6GL?si=c67d56e21f894294
 
 # INSTRUCCIONES
 
